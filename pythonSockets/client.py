@@ -16,5 +16,5 @@ while True:
     s.sendall(text.encode())
 
     if (text == "help"):
-        print("HELP BRUH")
+        print("help sent")
 
